@@ -1,18 +1,14 @@
 # README #
 
-### Purpose ###
-
-* Submission for TenX Technical Excercise by Sun Sagong
-
 ### Build ###
 ```
-$ git clone https://sunsagong@bitbucket.org/sunsagong/tenx-technical-exercise.git
-$ cd tenx-technical-exercise
+$ git clone https://github.com/sunsagong/exchange_rate_path_solution.git
+$ cd exchange_rate_path_solution
 $ python graph.py
 ```
 
 ### Test ###
 ```
-$ cd tenx-technical-exercise
+$ cd exchange_rate_path_solution
 $ pytest
 ```
